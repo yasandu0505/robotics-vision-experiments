@@ -13,6 +13,7 @@ python main.py
 ```
 macOS - sudo to run the script,because terminal needs root access to control the keyboard and also enable the terminal from System Settings → Privacy & Security → Accessibility → Terminal to give persmission to fire the keys.
 
+### Demo
 <a href="https://vt.tiktok.com/ZSHxUBVWh/">
   <img src="./demo.jpg" width="300">
 </a>
