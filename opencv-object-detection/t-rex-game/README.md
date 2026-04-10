@@ -12,3 +12,5 @@ pip install -r requirements.txt
 python main.py
 ```
 macOS - sudo to run the script,because terminal needs root access to control the keyboard and also enable the terminal from System Settings → Privacy & Security → Accessibility → Terminal to give persmission to fire the keys.
+
+[![Watch the demo](./demo.jpg)](https://vt.tiktok.com/ZSHxUBVWh/)
